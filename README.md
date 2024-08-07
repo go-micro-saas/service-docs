@@ -63,11 +63,11 @@ make protoc-ping-v1-protobuf
 初始化账户：
 
 - 账户： user@user.user
-- 密码： md5(User.123456)
+- 密码： md5(User.123456) = b1c74a97bc4fbad404b16e193ffc3275
 
 ## 后台服务 admin-service
 
 初始化账户：
 
 - 账户： admin@admin.admin
-- 密码： md5(Admin.123456)
+- 密码： md5(Admin.123456) = b1c74a97bc4fbad404b16e193ffc3275
